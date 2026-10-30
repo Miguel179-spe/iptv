@@ -1,0 +1,7 @@
+name = "iptv"
+main = "index.js"
+compatibility_date = "2026-10-01"
+
+[[kv_namespaces]]
+binding = "DISPOSITIVOS"
+id = "a402fe91559642a39d6e1c1fef7fd24d"
